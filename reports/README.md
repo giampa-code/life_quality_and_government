@@ -57,32 +57,32 @@ Top 10 ranking plus Argentina plus the mean and median were made, listed from mo
 
 This graphic is clear, we not only have a low score, but we are also below the mean and the median.
 
-![Top 10 Government Quality](https://github.com/giampa14/life_quality_and_government/blob/master/images/TOP10_GQ.png)
+![Top 10 Government Quality](https://github.com/giampa14/life_quality_and_government/blob/master/reports/figures/TOP10_GQ.png)
 
 #### 3.1.2 Top 10 Property Price to Anual Income Ratio
 
 AKA how many years a mean family should work to buy a mean apartment. The higher this value is, the worse.
 What calls my attention the most is how Argentina shares the podium with Asian countries, which have a different reality in terms of space and population.
 
-![Top 10 Property Price to Anual Income Ratio](https://github.com/giampa14/life_quality_and_government/blob/master/images/TOP10_PPAI.png)
+![Top 10 Property Price to Anual Income Ratio](https://github.com/giampa14/life_quality_and_government/blob/master/reports/figures/TOP10_PPAI.png)
 
 #### 3.1.3 Top 10 Life Quality Index
 
 The same as the Government Quality ranking. Latter it will be showed that it is a linear relationship between the LQI and the GQI.
 
-![Top 10 Life Quality Index](https://github.com/giampa14/life_quality_and_government/blob/master/images/TOP10_LQI.png)
+![Top 10 Life Quality Index](https://github.com/giampa14/life_quality_and_government/blob/master/reports/figures/TOP10_LQI.png)
 
 #### 3.1.4 Top 10 Human Development Index
 
 Despite out "bad quality of life", we have most of our basic needs covered, unlike many countries in Africa.
 
-![Top 10 Human Development Index](https://github.com/giampa14/life_quality_and_government/blob/master/images/TOP10_HDI.png)
+![Top 10 Human Development Index](https://github.com/giampa14/life_quality_and_government/blob/master/reports/figures/TOP10_HDI.png)
 
 #### 3.1.5 Top 10 GDP
 
 Not good, but above the median.
 
-![Top 10 GDP](https://github.com/giampa14/life_quality_and_government/blob/master/images/TOP10_GDP.png)
+![Top 10 GDP](https://github.com/giampa14/life_quality_and_government/blob/master/reports/figures/TOP10_GDP.png)
 
 ### 3.2 Government and Life Quality
 
@@ -90,14 +90,14 @@ This is the most important outcome of the whole analysis, that is why it shares 
 
 The results show that there is a high correlation between the quality of government of a country and the quality of life and wealth of its inhabitants.
 
-![Government and Life Quality](https://github.com/giampa14/life_quality_and_government/blob/master/images/QLI_GQ.png)
+![Government and Life Quality](https://github.com/giampa14/life_quality_and_government/blob/master/reports/figures/QLI_GQ.png)
 
 ### 3.3 Government Quality and Human Development
 
 It is shown that the HDI grows logarithmically with respect to the Government Quality.
 The same conclusions of the HDI ranking applies here. 
 
-![Government and Life Quality](https://github.com/giampa14/life_quality_and_government/blob/master/images/HDI_GQ.png)
+![Government and Life Quality](https://github.com/giampa14/life_quality_and_government/blob/master/reports/figures/HDI_GQ.png)
 
 ## 4 Conclusions and personal opinion
 
