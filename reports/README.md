@@ -61,7 +61,7 @@ This graphic is clear, we not only have a low score, but we are also below the m
 
 #### 3.1.2 Top 10 Property Price to Anual Income Ratio
 
-AKA how many years a mean family should work to buy a mean apartment. The higher this value is, the worse.
+AKA how many years a average family should work to buy a average apartment. The higher this value is, the worse.
 What calls my attention the most is how Argentina shares the podium with Asian countries, which have a different reality in terms of space and population.
 
 ![Top 10 Property Price to Anual Income Ratio](https://github.com/giampa14/life_quality_and_government/blob/master/reports/figures/TOP10_PPAI.png)
